@@ -30,6 +30,7 @@ Welcome to **FitForge**, a modern, responsive fitness application built with Rea
 
 ## 📁 Project Structure
 
+
 src/
 │
 ├── components/ # Reusable components (Navbar, Footer, Cards)
